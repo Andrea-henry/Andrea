@@ -11,14 +11,6 @@
 [![_icon_kotlin](https://img.shields.io/badge/jetpack_compose-092937?style=for-the-badge&logo=jetpack-compose&logoColor=ffffff "Kotlin")](#)
 </div>
 
-## Team
-
-- Team Id: **NM2023TMID32858**
-- Team Members
-  - Sankara Subramanian A (Team Lead) [g.dev/devsiva003](https://g.dev/devsiva003)
-  - Aarthis I
-  - Duraigopal S
-  - Vekatesh R
 
 ## Project Demonstration
 
