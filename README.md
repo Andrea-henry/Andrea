@@ -14,7 +14,7 @@
 
 ## Project Demonstration
 
-<div align="center"><a href="https://drive.google.com/file/d/1XlYfdoVz6504iaCe53sLHBBWmHP81g9j/view?usp=drivesdk" rel="noopener nofollow" target="_blank" title="Project Demo"><img src="https://drive.google.com/file/d/1XrLY18-kXy2eBSbUQQbmU_9ijRDQIFHh/view?usp=drivesdk" alt="project_demo" title="Project Demo" /></a></div>
+<div align="center"><a href="https://drive.google.com/file/d/1XlYfdoVz6504iaCe53sLHBBWmHP81g9j/view?usp=drivesdk" rel="noopener nofollow" target="_blank" title="Project Demo"><alt="project_demo" title="Project Demo" /></a></div>
 
 <div align="center"><a href="https://drive.google.com/file/d/1XlYfdoVz6504iaCe53sLHBBWmHP81g9j/view?usp=drivesdk" rel="noopener nofollow" target="_blank" title="Project Report">Click Here To Watch</a></div>
 
